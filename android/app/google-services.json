@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338076584056",
+    "firebase_url": "https://chat-app-86caf.firebaseio.com",
+    "project_id": "chat-app-86caf",
+    "storage_bucket": "chat-app-86caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338076584056:android:b90ccd5a3ebf9a30c6458d",
+        "android_client_info": {
+          "package_name": "co.airrake.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338076584056-bqn38nor5l7vn6qhm7k11hr5uemjvcjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVkqABZ2_TQ1K3HCiI3reCsbrRJGVPEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338076584056-bqn38nor5l7vn6qhm7k11hr5uemjvcjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
